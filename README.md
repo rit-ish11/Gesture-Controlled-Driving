@@ -1,4 +1,4 @@
-# ✋ Gesture-Controlled Driving Simulation using MediaPipe & OpenCV
+#  Gesture-Controlled Driving Simulation using MediaPipe & OpenCV
 
 Control a car in a racing game **using your hand gestures** instead of a keyboard or joystick!  
 This project uses **MediaPipe** to track hand landmarks, detects gestures with **OpenCV**, and simulates keyboard actions using **Pynput** — enabling gesture-based gameplay in real time.
@@ -20,7 +20,7 @@ This project uses **MediaPipe** to track hand landmarks, detects gestures with *
 
 ## 📹 Demo Video
 
-🎬 [Click here to watch the demo]([https://drive.google.com/file/d/your_video_id/view?usp=sharing](https://drive.google.com/file/d/14KWZ2fD7WKL1CuGMfe2Qgs1uOaA1x-FI/view?usp=sharing))
+🎬[Video Link](https://drive.google.com/file/d/your_video_id/view?usp=sharing](https://drive.google.com/file/d/14KWZ2fD7WKL1CuGMfe2Qgs1uOaA1x-FI/view?usp=sharing))
 
 
 
